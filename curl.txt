@@ -1,0 +1,2 @@
+1.AutoComplete -> curl --location --request GET 'https://klaar-test.herokuapp.com/api/branches/autocomplete?q=RTGS&limit=4&offset=0'
+2.Search all -> curl --location --request GET 'https://klaar-test.herokuapp.com/api/branches?q=BANGALORE&limit=4&offset=0'
